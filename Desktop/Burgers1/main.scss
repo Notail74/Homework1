@@ -1,0 +1,35 @@
+//colors
+$orange: #e45028;
+$yellow: #f9b43b;
+$black: #2f3234;
+$red: #e35028;
+
+
+@import "css/normalize.scss";
+@import "fonts/fonts.scss";
+
+
+// setups
+//@import "_misc/mixins";
+@import "css/layout.scss";
+
+
+//common
+//@import "blocks/common/btn.scss";
+
+// blocks
+@import "blocks/nav.scss";
+@import "blocks/hero.scss";
+@import "blocks/header.scss";
+@import "blocks/btn.scss";
+@import "blocks/title.scss";
+@import "blocks/best.scss";
+@import "blocks/reviews.scss";
+@import "blocks/form.scss";
+@import "blocks/to-next.scss";
+
+
+//@import "blocks/best.scss";
+//@import "blocks/team.scss";
+//@import "blocks/reviews.scss";
+//@import "blocks/order.scss";

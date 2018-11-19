@@ -1,0 +1,17 @@
+.header {
+    padding-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: auto;
+    padding: 12px 10px;
+}
+.header__buttons {
+    display: flex;
+    align-items: center;
+    font-family: 'Ubuntu-Medium', sans-serif;
+}
+.hero__conteiner {
+    display: flex;
+}

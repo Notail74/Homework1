@@ -1,0 +1,17 @@
+.title {
+    color: #f9b43b;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 5px;
+    font-size: 72px;
+    font-family: 'Gagalin-Regular', sans-serif;
+    line-height: 1.181;
+    padding-top: 100px;
+    padding-bottom: 55px;
+    &--color-black {
+        color: black;
+       margin: 0 auto;
+        color: rgb(47, 50, 52);
+        line-height: 0.889;
+    }
+}

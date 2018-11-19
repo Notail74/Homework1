@@ -1,0 +1,28 @@
+.hero {
+    background: url(maketitems/background1.jpg) center center / cover no-repeat;
+} 
+.hero__title {
+    color: #f9b43b;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.hero__desc {
+    width: 400px;
+    font-size: 50px;
+    color: #ffffff;
+    margin-left: 10px;
+    font-family: 'Lifehack-Medium',sans-serif;
+}
+.hero__conteiner {
+    flex: .75;
+    justify-content: center;
+}
+.hero__title {
+    color: #f9b43b;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.hero__content {
+    display: flex;
+    align-items: center;
+}
